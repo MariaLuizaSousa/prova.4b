@@ -1,0 +1,9 @@
+
+npm init
+yarn add nodemon 
+yarn add cookie-parser
+yarn add cors
+npm run dev
+yarn add mysql2
+yarn sequelize db:create
+yarn sequelize db:migrate
